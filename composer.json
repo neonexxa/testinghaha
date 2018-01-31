@@ -10,7 +10,7 @@
     }],
     "autoload": {
         "psr-4": {
-            "Towords\\": "towards/"
+            "Towords\\": "Towords/"
         }
     },
     "version": "1.0.0", 

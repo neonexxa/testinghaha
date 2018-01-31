@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'towards\\' => array($baseDir . '/towards'),
+    'Towords\\' => array($baseDir . '/Towords'),
 );
