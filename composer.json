@@ -1,0 +1,19 @@
+{
+    "name": "testinghaha", //naming our package
+    "description": "testing", // Description about package
+    "keywords": ["money to words", "rm to words"], // Keywords
+    "type": "package", //Since it’s a package  we define its type package
+    "license": "MIT",
+    "authors": [{ //Your information
+        "name": "Neo nexxa", 
+        "email": "firdaus@cyberhax.club"
+    }],
+    "autoload": {
+        "psr-4": {
+            "Towords\\": "towards/"
+        }
+    },
+    "version": "1.0.0", //Version of the package
+    "minimum-stability": "dev" //Stability
+
+}
