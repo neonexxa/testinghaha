@@ -1,10 +1,10 @@
 {
-    "name": "neonexxa/testinghaha", //naming our package
-    "description": "testing", // Description about package
-    "keywords": ["money to words", "rm to words"], // Keywords
-    "type": "package", //Since it’s a package  we define its type package
+    "name": "neonexxa/testinghaha", 
+    "description": "testing", 
+    "keywords": ["money to words", "rm to words"], 
+    "type": "package", 
     "license": "MIT",
-    "authors": [{ //Your information
+    "authors": [{ 
         "name": "Neo nexxa", 
         "email": "firdaus@cyberhax.club"
     }],
@@ -13,7 +13,7 @@
             "Towords\\": "towards/"
         }
     },
-    "version": "1.0.0", //Version of the package
-    "minimum-stability": "dev" //Stability
+    "version": "1.0.0", 
+    "minimum-stability": "dev" 
 
 }
