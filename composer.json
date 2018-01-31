@@ -1,5 +1,5 @@
 {
-    "name": "testinghaha", //naming our package
+    "name": "neonexxa/testinghaha", //naming our package
     "description": "testing", // Description about package
     "keywords": ["money to words", "rm to words"], // Keywords
     "type": "package", //Since it’s a package  we define its type package
